@@ -5,6 +5,7 @@ This project is an HR Analytics Dashboard built in Power BI. It provides a clear
 <img width="1444" height="810" alt="Screenshot (733)" src="https://github.com/user-attachments/assets/d80f2065-f15b-4fdb-822a-0e9520a29c04" />
 
 
+
 Human resources attrition insights 👇
 <img width="1317" height="740" alt="Screenshot (738)" src="https://github.com/user-attachments/assets/b88e7a10-e028-4bbe-9f0c-ad308af2ece3" />
 
