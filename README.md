@@ -2,7 +2,8 @@ HR Analytics Dashboard
 
 This project is an HR Analytics Dashboard built in Power BI. It provides a clear and interactive view of workforce data with a special focus on attrition (employees leaving the company). The dashboard helps identify key patterns and insights such as which employees are leaving, from which job roles, education backgrounds, salary ranges, and age groups.
 
-<img width="1275" height="715" alt="Screenshot (749)" src="https://github.com/user-attachments/assets/cd39be4d-8dad-4d8e-b1c4-9a231af2d5fb" />
+<img width="1270" height="715" alt="Screenshot (749)" src="https://github.com/user-attachments/assets/4d4200a6-dfa9-47a0-8d8d-666740951dad" />
+
 
 
 
